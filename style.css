@@ -83,13 +83,13 @@ img {
 .squareOne {
   background-color: #ef476f;
   animation: down 2.5s linear infinite;
-  left: 50px;
+  left: 500px;
 }
 
 .squareTwo {
   background-color: #06d6a0;
   animation: down 2.3s linear infinite 0.2s;
-  left: 150px;
+  left: 400px;
 }
 
 .squareThree {
@@ -107,7 +107,7 @@ img {
 .squareFive {
   background-color: #118ab2;
   animation: down 2.6s linear infinite 0.7s;
-  left: 5px;
+  left: 600px;
 }
 
 @keyframes down {
